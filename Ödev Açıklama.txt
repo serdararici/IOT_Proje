@@ -1,0 +1,17 @@
+  PROJE/TASARIM KONUSU
+
+1- Uygulamanın değerlendirilmesinde bir IoT uygulaması olması (internet üzerinden kontrol), uygulamanın çalışması, derste gösterilenin dışında platform kullanımı ya da derste gösterilen platformların daha ayrıntılı kullanımına dikkat edilecektir.  (60 p)
+
+ 2- Yaptığınız uygulamayı anlatan, içerisinde uml diyagram vb. tasarım ve gerçekleme süreçlerini de içeren yaklaşık 10 sayfalık bir rapor hazırlayınız. (15 p)
+
+! Raporun hazırlanmasında internet sayfalarından birebir kopya değil, kitap, makale vb. kaynaklar tercih edilmelidir.
+
+3- Yaptığınız uygulama ile ilişkili olacak şekilde IoT teknolojilerinin kullanıldığı bir iş fikri geliştirerek, Business Canvas İş Modelini çıkarınız. (15 p)  
+
+4- Nesnelerin interneti doğası gereği büyük veri kaynağıdır. İş fikrinizde ya da gerçekleştirdiğiniz IoT uygulamasından büyük bir veri elde edildiğini düşünün. Buna göre, hayatımızı kolaylaştırabilecek ne tür anlamlı bilgiler çıkarılabilir. Bu bilgileri elde etmek için nasıl bir büyük veri altyapısı ve teknolojileri kullanılmalıdır. Gerekçeleri ile proje dokümanında açıklayınız. (10 p)
+
+5- Projelerin tek kişi olarak yapılması beklenmektedir. Projenin büyüklüğü, maliyet gibi durumlarda en fazla iki kişi yapılabilir. Ancak, değerlendirme de projenin boyutu, içeriği gözönünde bulundurulacaktır.
+ 
+Not1: Proje önerilerinizi (öneri formunun doldurulması) en geç 27 Kasım 2021 tarihine (8. haftanın sonu) kadar,  proje dokümanlarınızı ise en geç 31 Aralık 2021 tarihinde (13. haftanın sonu) Dökümanları SABİS > Proje/Tasarım kısmına yüklenmiş olmalıdır.
+
+Not2: Proje sunumları son iki hafta yüz yüze gerçekleştirilecektir.
